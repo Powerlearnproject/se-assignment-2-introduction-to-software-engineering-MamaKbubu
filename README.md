@@ -57,12 +57,7 @@ Without maintenance, any software will be obsolete and essentially useless over 
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
-Ethical Issues in Software Development
-• 1. Unethical data collection 
-• 2. Algorithmic bias 
-• 3. Weak security 
-• 4. Wrong Priorities. 
-To adhere they should to these principles encompass responsibility, accountability, fairness, and justice. Responsibility and accountability in software engineering (Full Scale, 2024)
+Ethical Issues in Software Development • 1. Unethical data collection • 2. Algorithmic bias • 3. Weak security • 4. Wrong Priorities. To adhere they should to these principles encompass responsibility, accountability, fairness, and justice. Responsibility and accountability in software engineering (Full Scale, 2024)
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.

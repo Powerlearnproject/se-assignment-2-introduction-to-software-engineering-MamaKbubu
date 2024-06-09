@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15239999&assignment_repo_type=AssignmentRepo)
+
 # SE-Assignment-2
+
 Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
@@ -38,7 +40,7 @@ Modularity is a fundamental design principle in software engineering aimed at cr
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
 
-1. Unit testing is also the first level of functional testing. The primary goal of unit testing is to validate the performance of unit components 2. Integration testing means combining different software modules and phases and testing as a group to ensure that the integrated system is ready for system testing or not, and there are many ways to test how different components of the system function at their interface 3. System testing allows checking the system’s compliance as per the requirements and all the components of the software are tested as a whole to ensure that the overall product meets the specified requirements. It involves load, reliability, performance, and security testing 4. Acceptance testing aims to evaluate whether the system complies with the end-user requirements and if it is ready for deployment. All the levels of testing are compulsory and have to be finished before the application/software is launched. By adopting a constant vigilance and checking viewpoint in all your projects, as well as by a systemized approach to testing, the tester can detect any defects in the system as soon as possible, which is a waste of time and money later (QACraft, 2024) 
+1. Unit testing is also the first level of functional testing. The primary goal of unit testing is to validate the performance of unit components 2. Integration testing means combining different software modules and phases and testing as a group to ensure that the integrated system is ready for system testing or not, and there are many ways to test how different components of the system function at their interface 3. System testing allows checking the system’s compliance as per the requirements and all the components of the software are tested as a whole to ensure that the overall product meets the specified requirements. It involves load, reliability, performance, and security testing 4. Acceptance testing aims to evaluate whether the system complies with the end-user requirements and if it is ready for deployment. All the levels of testing are compulsory and have to be finished before the application/software is launched. By adopting a constant vigilance and checking viewpoint in all your projects, as well as by a systemized approach to testing, the tester can detect any defects in the system as soon as possible, which is a waste of time and money later (QACraft, 2024)
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
@@ -57,7 +59,10 @@ Without maintenance, any software will be obsolete and essentially useless over 
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
-Ethical Issues in Software Development • 1. Unethical data collection • 2. Algorithmic bias • 3. Weak security • 4. Wrong Priorities. To adhere they should to these principles encompass responsibility, accountability, fairness, and justice. Responsibility and accountability in software engineering (Full Scale, 2024)
+Ethical Issues in Software Development 1. Unethical data collection 2. Algorithmic bias 3. Weak security 4. Wrong Priorities.
+To adhere they should to these principles encompass responsibility, accountability, fairness, and justice. Responsibility and accountability in software engineering (Full Scale, 2024)
+
+by Tshegofatso Maboela
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
